@@ -48,9 +48,3 @@ Matplotlib OOP: subplot, spettrogramma, scatter+colormap, Bode plot, stili, expo
 **Esercizio:** figura 2×2 per paper + oscilloscopio Python con simulatore seriale
 
 ---
-
-### Setup
-
-- Python 3.10+ (Anaconda consigliato)
-- Librerie: `numpy`, `pandas`, `matplotlib`, `scipy`, `openpyxl`, `pyserial`
-- Editor: VS Code con estensione Jupyter oppure JupyterLab
