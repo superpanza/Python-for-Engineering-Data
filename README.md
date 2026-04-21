@@ -1,7 +1,7 @@
 # Python-for-Engineering-Data
 Working with Measurements, Signals, and Data Analysis
 
-### Lezione 1 — Dal C al Python
+[(https://github.com/superpanza/Python-for-Engineering-Data/blob/main/Lezione_1_Dal_C_al_Python.ipynb)### Lezione 1 — Dal C al Python]
 
 Ambiente Jupyter · variabili e tipi dinamici · stringhe/f-string · liste, tuple, dizionari · control flow · funzioni con default e ritorno multiplo · import · list comprehension · try/except
 
