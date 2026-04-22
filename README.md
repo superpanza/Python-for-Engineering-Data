@@ -19,13 +19,13 @@ NumPy: array, slicing, broadcasting, operazioni vettoriali, maschere booleane ·
 
 ### Lezione 3 — Filtrare, fittare, correlare
 
-SciPy: filtro Butterworth/FIR, `filtfilt` vs `lfilter`, risposta in frequenza · Welch PSD · `find_peaks`, `curve_fit`, interpolazione, correlazione
+SciPy: filtri, `filtfilt` vs `lfilter`, risposta in frequenza · `find_peaks`, `curve_fit`, interpolazione, correlazione
 
 **Esercizio:** caratterizzazione circuito RC (filtraggio → peak → fit esponenziale → stima τ)
 
 ---
 
-### Lezione 4 — I dati dal mondo reale
+### Lezione 4 — dati I/O
 
 File I/O: CSV, XLSX, TXT tab-separated, formato LabVIEW con header custom, `.npy`/`.npz` · Pandas base: DataFrame, selezione, filtering, colonne calcolate, statistiche
 
@@ -35,16 +35,15 @@ File I/O: CSV, XLSX, TXT tab-separated, formato LabVIEW con header custom, `.npy
 
 ### Lezione 5 — Manipolare e combinare dati
 
-Pandas avanzato: groupby, merge/join, concat, pivot/melt, rolling, apply, correlazioni · Esportazione: CSV, Excel multi-sheet con formattazione, LaTeX, pickle
+Pandas avanzato: groupby, merge/join, concat, pivot/melt, rolling, apply, correlazioni · Esportazione: CSV, Excel multi-sheet con formattazione, pickle
 
-**Esercizio:** quaderno di laboratorio digitale (5 run amplificatore → analisi → report Excel)
-
+**Esercizio:** 
 ---
 
 ### Lezione 6 — Grafici, seriale e integrazione
 
 Matplotlib OOP: subplot, spettrogramma, scatter+colormap, Bode plot, stili, export PDF · PySerial: lettura/scrittura, protocolli ASCII e binario, acquisizione continua
 
-**Esercizio:** figura 2×2 per paper + oscilloscopio Python con simulatore seriale
+**Esercizio:** 
 
 ---
