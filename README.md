@@ -9,7 +9,7 @@ Ambiente Jupyter · variabili e tipi dinamici · stringhe/f-string · liste, tup
 
 ---
 
-### Lezione 2 — Pensare in vettori
+### [Lezione 2 — Pensare in vettori](https://github.com/superpanza/Python-for-Engineering-Data/blob/main/Lezione_2_Pensare_in_vettori.ipynb)
 
 NumPy: array, slicing, broadcasting, operazioni vettoriali, maschere booleane · FFT con `np.fft`, spettro monolatero, finestratura, zero-padding
 
